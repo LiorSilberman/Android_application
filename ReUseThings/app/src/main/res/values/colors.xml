@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logo">#FF351570</color>
+    <color name="txt">#FF203295</color>
+    <color name="homeBottom">#C5BFD6</color>
+    <style name="EditTextStyle">
+        <item name="android:background">@android:drawable/edit_text</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:background">@android:drawable/btn_default</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+</resources>
